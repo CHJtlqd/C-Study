@@ -1,0 +1,7 @@
+C:\SRC\C-Study\ControlStatement\bin\Debug\ControlStatement.exe.config
+C:\SRC\C-Study\ControlStatement\bin\Debug\ControlStatement.exe
+C:\SRC\C-Study\ControlStatement\bin\Debug\ControlStatement.pdb
+C:\SRC\C-Study\ControlStatement\obj\Debug\ControlStatement.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\ControlStatement\obj\Debug\ControlStatement.exe
+C:\SRC\C-Study\ControlStatement\obj\Debug\ControlStatement.pdb
+C:\SRC\C-Study\ControlStatement\obj\Debug\ControlStatement.csprojAssemblyReference.cache

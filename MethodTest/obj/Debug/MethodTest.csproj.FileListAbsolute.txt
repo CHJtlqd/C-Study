@@ -1,0 +1,7 @@
+C:\SRC\C-Study\MethodTest\bin\Debug\MethodTest.exe.config
+C:\SRC\C-Study\MethodTest\bin\Debug\MethodTest.exe
+C:\SRC\C-Study\MethodTest\bin\Debug\MethodTest.pdb
+C:\SRC\C-Study\MethodTest\obj\Debug\MethodTest.csprojAssemblyReference.cache
+C:\SRC\C-Study\MethodTest\obj\Debug\MethodTest.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\MethodTest\obj\Debug\MethodTest.exe
+C:\SRC\C-Study\MethodTest\obj\Debug\MethodTest.pdb

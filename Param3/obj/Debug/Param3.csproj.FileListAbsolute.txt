@@ -1,0 +1,7 @@
+C:\SRC\C-Study\Param3\obj\Debug\Param3.csprojAssemblyReference.cache
+C:\SRC\C-Study\Param3\obj\Debug\Param3.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\Param3\bin\Debug\Param3.exe.config
+C:\SRC\C-Study\Param3\bin\Debug\Param3.exe
+C:\SRC\C-Study\Param3\bin\Debug\Param3.pdb
+C:\SRC\C-Study\Param3\obj\Debug\Param3.exe
+C:\SRC\C-Study\Param3\obj\Debug\Param3.pdb

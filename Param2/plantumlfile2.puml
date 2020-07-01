@@ -1,0 +1,14 @@
+﻿@startuml
+left to right direction
+:회원:
+package 회원관리{
+	usecase "회원가입"
+	usecase "로그인"
+	usecase "로그아웃"
+}
+
+회원 -- 회원가입
+회원 -- 로그인
+회원 -- 로그아웃
+
+@enduml

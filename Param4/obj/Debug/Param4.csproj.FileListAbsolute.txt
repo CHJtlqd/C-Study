@@ -1,0 +1,7 @@
+C:\SRC\C-Study\Param4\bin\Debug\Param4.exe.config
+C:\SRC\C-Study\Param4\bin\Debug\Param4.exe
+C:\SRC\C-Study\Param4\bin\Debug\Param4.pdb
+C:\SRC\C-Study\Param4\obj\Debug\Param4.csprojAssemblyReference.cache
+C:\SRC\C-Study\Param4\obj\Debug\Param4.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\Param4\obj\Debug\Param4.exe
+C:\SRC\C-Study\Param4\obj\Debug\Param4.pdb

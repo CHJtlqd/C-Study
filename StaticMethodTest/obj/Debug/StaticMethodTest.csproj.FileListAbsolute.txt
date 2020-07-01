@@ -1,0 +1,7 @@
+C:\SRC\C-Study\StaticMethodTest\bin\Debug\StaticMethodTest.exe.config
+C:\SRC\C-Study\StaticMethodTest\bin\Debug\StaticMethodTest.exe
+C:\SRC\C-Study\StaticMethodTest\bin\Debug\StaticMethodTest.pdb
+C:\SRC\C-Study\StaticMethodTest\obj\Debug\StaticMethodTest.csprojAssemblyReference.cache
+C:\SRC\C-Study\StaticMethodTest\obj\Debug\StaticMethodTest.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\StaticMethodTest\obj\Debug\StaticMethodTest.exe
+C:\SRC\C-Study\StaticMethodTest\obj\Debug\StaticMethodTest.pdb

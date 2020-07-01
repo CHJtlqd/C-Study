@@ -1,0 +1,7 @@
+C:\SRC\C-Study\AboutType\bin\Debug\AboutType.exe.config
+C:\SRC\C-Study\AboutType\bin\Debug\AboutType.exe
+C:\SRC\C-Study\AboutType\bin\Debug\AboutType.pdb
+C:\SRC\C-Study\AboutType\obj\Debug\AboutType.csprojAssemblyReference.cache
+C:\SRC\C-Study\AboutType\obj\Debug\AboutType.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\AboutType\obj\Debug\AboutType.exe
+C:\SRC\C-Study\AboutType\obj\Debug\AboutType.pdb
