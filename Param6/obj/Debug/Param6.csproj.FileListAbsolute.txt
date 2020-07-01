@@ -1,0 +1,6 @@
+C:\SRC\C-Study\Param6\bin\Debug\Param6.exe.config
+C:\SRC\C-Study\Param6\bin\Debug\Param6.exe
+C:\SRC\C-Study\Param6\bin\Debug\Param6.pdb
+C:\SRC\C-Study\Param6\obj\Debug\Param6.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\Param6\obj\Debug\Param6.exe
+C:\SRC\C-Study\Param6\obj\Debug\Param6.pdb

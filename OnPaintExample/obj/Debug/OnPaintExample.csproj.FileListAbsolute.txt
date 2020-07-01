@@ -1,0 +1,10 @@
+C:\SRC\C-Study\OnPaintExample\bin\Debug\OnPaintExample.exe.config
+C:\SRC\C-Study\OnPaintExample\bin\Debug\OnPaintExample.exe
+C:\SRC\C-Study\OnPaintExample\bin\Debug\OnPaintExample.pdb
+C:\SRC\C-Study\OnPaintExample\obj\Debug\OnPaintExample.csprojAssemblyReference.cache
+C:\SRC\C-Study\OnPaintExample\obj\Debug\OnPaintExample.Form1.resources
+C:\SRC\C-Study\OnPaintExample\obj\Debug\OnPaintExample.Properties.Resources.resources
+C:\SRC\C-Study\OnPaintExample\obj\Debug\OnPaintExample.csproj.GenerateResource.cache
+C:\SRC\C-Study\OnPaintExample\obj\Debug\OnPaintExample.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\OnPaintExample\obj\Debug\OnPaintExample.exe
+C:\SRC\C-Study\OnPaintExample\obj\Debug\OnPaintExample.pdb

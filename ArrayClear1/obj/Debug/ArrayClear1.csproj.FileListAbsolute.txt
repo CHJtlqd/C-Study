@@ -1,0 +1,6 @@
+C:\SRC\C-Study\ArrayClear1\bin\Debug\ArrayClear1.exe.config
+C:\SRC\C-Study\ArrayClear1\bin\Debug\ArrayClear1.exe
+C:\SRC\C-Study\ArrayClear1\bin\Debug\ArrayClear1.pdb
+C:\SRC\C-Study\ArrayClear1\obj\Debug\ArrayClear1.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\ArrayClear1\obj\Debug\ArrayClear1.exe
+C:\SRC\C-Study\ArrayClear1\obj\Debug\ArrayClear1.pdb

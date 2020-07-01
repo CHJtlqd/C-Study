@@ -1,0 +1,7 @@
+C:\SRC\C-Study\ArrayLank\bin\Debug\ArrayLank.exe.config
+C:\SRC\C-Study\ArrayLank\bin\Debug\ArrayLank.exe
+C:\SRC\C-Study\ArrayLank\bin\Debug\ArrayLank.pdb
+C:\SRC\C-Study\ArrayLank\obj\Debug\ArrayLank.csprojAssemblyReference.cache
+C:\SRC\C-Study\ArrayLank\obj\Debug\ArrayLank.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\ArrayLank\obj\Debug\ArrayLank.exe
+C:\SRC\C-Study\ArrayLank\obj\Debug\ArrayLank.pdb
