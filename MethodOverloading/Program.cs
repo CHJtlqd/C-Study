@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MethodOverloading
 {
@@ -21,6 +17,7 @@ namespace MethodOverloading
         {
             return Num1 + Num2;
         }
+
         static void Main(string[] args)
         {
             int iNum = Add(3, 4);

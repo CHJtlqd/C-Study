@@ -1,0 +1,7 @@
+C:\SRC\C-Study\MainAgrs\bin\Debug\MainAgrs.exe.config
+C:\SRC\C-Study\MainAgrs\bin\Debug\MainAgrs.exe
+C:\SRC\C-Study\MainAgrs\bin\Debug\MainAgrs.pdb
+C:\SRC\C-Study\MainAgrs\obj\Debug\MainAgrs.csprojAssemblyReference.cache
+C:\SRC\C-Study\MainAgrs\obj\Debug\MainAgrs.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\MainAgrs\obj\Debug\MainAgrs.exe
+C:\SRC\C-Study\MainAgrs\obj\Debug\MainAgrs.pdb

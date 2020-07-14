@@ -31,6 +31,7 @@ namespace OnPaintExample
 
         private void button1_Click(object sender, EventArgs e)
         {
+
             Graphics aGraphics = CreateGraphics();
             aGraphics.DrawString("하이", Font, new SolidBrush(ForeColor), ClientRectangle);
         }

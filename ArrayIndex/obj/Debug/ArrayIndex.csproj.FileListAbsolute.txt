@@ -1,0 +1,7 @@
+C:\SRC\C-Study\ArrayIndex\bin\Debug\ArrayIndex.exe.config
+C:\SRC\C-Study\ArrayIndex\bin\Debug\ArrayIndex.exe
+C:\SRC\C-Study\ArrayIndex\bin\Debug\ArrayIndex.pdb
+C:\SRC\C-Study\ArrayIndex\obj\Debug\ArrayIndex.csprojAssemblyReference.cache
+C:\SRC\C-Study\ArrayIndex\obj\Debug\ArrayIndex.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\ArrayIndex\obj\Debug\ArrayIndex.exe
+C:\SRC\C-Study\ArrayIndex\obj\Debug\ArrayIndex.pdb
