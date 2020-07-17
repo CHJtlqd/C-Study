@@ -1,0 +1,7 @@
+C:\SRC\C-Study\Overriding\bin\Debug\Overriding.exe.config
+C:\SRC\C-Study\Overriding\bin\Debug\Overriding.exe
+C:\SRC\C-Study\Overriding\bin\Debug\Overriding.pdb
+C:\SRC\C-Study\Overriding\obj\Debug\Overriding.csprojAssemblyReference.cache
+C:\SRC\C-Study\Overriding\obj\Debug\Overriding.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\Overriding\obj\Debug\Overriding.exe
+C:\SRC\C-Study\Overriding\obj\Debug\Overriding.pdb

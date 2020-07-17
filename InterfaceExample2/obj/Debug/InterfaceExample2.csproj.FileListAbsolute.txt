@@ -1,0 +1,7 @@
+C:\SRC\C-Study\InterfaceExample2\bin\Debug\InterfaceExample2.exe.config
+C:\SRC\C-Study\InterfaceExample2\bin\Debug\InterfaceExample2.exe
+C:\SRC\C-Study\InterfaceExample2\bin\Debug\InterfaceExample2.pdb
+C:\SRC\C-Study\InterfaceExample2\obj\Debug\InterfaceExample2.csprojAssemblyReference.cache
+C:\SRC\C-Study\InterfaceExample2\obj\Debug\InterfaceExample2.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\InterfaceExample2\obj\Debug\InterfaceExample2.exe
+C:\SRC\C-Study\InterfaceExample2\obj\Debug\InterfaceExample2.pdb
