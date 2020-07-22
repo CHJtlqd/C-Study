@@ -1,0 +1,7 @@
+C:\SRC\C-Study\PropertyExample2\bin\Debug\PropertyExample2.exe.config
+C:\SRC\C-Study\PropertyExample2\bin\Debug\PropertyExample2.exe
+C:\SRC\C-Study\PropertyExample2\bin\Debug\PropertyExample2.pdb
+C:\SRC\C-Study\PropertyExample2\obj\Debug\PropertyExample2.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\PropertyExample2\obj\Debug\PropertyExample2.exe
+C:\SRC\C-Study\PropertyExample2\obj\Debug\PropertyExample2.pdb
+C:\SRC\C-Study\PropertyExample2\obj\Debug\PropertyExample2.csprojAssemblyReference.cache

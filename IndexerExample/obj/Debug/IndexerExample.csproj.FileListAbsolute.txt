@@ -1,0 +1,7 @@
+C:\SRC\C-Study\IndexerExample\obj\Debug\IndexerExample.csprojAssemblyReference.cache
+C:\SRC\C-Study\IndexerExample\obj\Debug\IndexerExample.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\IndexerExample\bin\Debug\IndexerExample.exe.config
+C:\SRC\C-Study\IndexerExample\bin\Debug\IndexerExample.exe
+C:\SRC\C-Study\IndexerExample\bin\Debug\IndexerExample.pdb
+C:\SRC\C-Study\IndexerExample\obj\Debug\IndexerExample.exe
+C:\SRC\C-Study\IndexerExample\obj\Debug\IndexerExample.pdb

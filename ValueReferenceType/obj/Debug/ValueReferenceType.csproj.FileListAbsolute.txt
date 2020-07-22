@@ -1,0 +1,7 @@
+C:\SRC\C-Study\ValueReferenceType\bin\Debug\ValueReferenceType.exe.config
+C:\SRC\C-Study\ValueReferenceType\bin\Debug\ValueReferenceType.exe
+C:\SRC\C-Study\ValueReferenceType\bin\Debug\ValueReferenceType.pdb
+C:\SRC\C-Study\ValueReferenceType\obj\Debug\ValueReferenceType.csprojAssemblyReference.cache
+C:\SRC\C-Study\ValueReferenceType\obj\Debug\ValueReferenceType.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\ValueReferenceType\obj\Debug\ValueReferenceType.exe
+C:\SRC\C-Study\ValueReferenceType\obj\Debug\ValueReferenceType.pdb
