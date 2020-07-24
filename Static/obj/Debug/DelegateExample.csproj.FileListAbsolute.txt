@@ -1,0 +1,6 @@
+C:\SRC\C-Study\Static\bin\Debug\Static.exe.config
+C:\SRC\C-Study\Static\bin\Debug\Static.exe
+C:\SRC\C-Study\Static\bin\Debug\Static.pdb
+C:\SRC\C-Study\Static\obj\Debug\DelegateExample.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\Static\obj\Debug\Static.exe
+C:\SRC\C-Study\Static\obj\Debug\Static.pdb
