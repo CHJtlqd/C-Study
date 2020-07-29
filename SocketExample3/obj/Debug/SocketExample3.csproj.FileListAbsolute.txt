@@ -1,0 +1,7 @@
+C:\SRC\C-Study\SocketExample3\bin\Debug\SocketExample3.exe.config
+C:\SRC\C-Study\SocketExample3\bin\Debug\SocketExample3.exe
+C:\SRC\C-Study\SocketExample3\bin\Debug\SocketExample3.pdb
+C:\SRC\C-Study\SocketExample3\obj\Debug\SocketExample3.csprojAssemblyReference.cache
+C:\SRC\C-Study\SocketExample3\obj\Debug\SocketExample3.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\SocketExample3\obj\Debug\SocketExample3.exe
+C:\SRC\C-Study\SocketExample3\obj\Debug\SocketExample3.pdb

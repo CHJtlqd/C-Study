@@ -1,0 +1,7 @@
+C:\SRC\C-Study\ParamsExample\bin\Debug\ParamsExample.exe.config
+C:\SRC\C-Study\ParamsExample\bin\Debug\ParamsExample.exe
+C:\SRC\C-Study\ParamsExample\bin\Debug\ParamsExample.pdb
+C:\SRC\C-Study\ParamsExample\obj\Debug\ParamsExample.csprojAssemblyReference.cache
+C:\SRC\C-Study\ParamsExample\obj\Debug\ParamsExample.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\ParamsExample\obj\Debug\ParamsExample.exe
+C:\SRC\C-Study\ParamsExample\obj\Debug\ParamsExample.pdb

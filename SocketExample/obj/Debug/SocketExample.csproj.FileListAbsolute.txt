@@ -1,0 +1,7 @@
+C:\SRC\C-Study\SocketExample\bin\Debug\SocketExample.exe.config
+C:\SRC\C-Study\SocketExample\bin\Debug\SocketExample.exe
+C:\SRC\C-Study\SocketExample\bin\Debug\SocketExample.pdb
+C:\SRC\C-Study\SocketExample\obj\Debug\SocketExample.csprojAssemblyReference.cache
+C:\SRC\C-Study\SocketExample\obj\Debug\SocketExample.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\SocketExample\obj\Debug\SocketExample.exe
+C:\SRC\C-Study\SocketExample\obj\Debug\SocketExample.pdb

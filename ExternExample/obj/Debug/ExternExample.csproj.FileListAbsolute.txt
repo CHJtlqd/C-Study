@@ -1,0 +1,7 @@
+C:\SRC\C-Study\ExternExample\bin\Debug\ExternExample.exe.config
+C:\SRC\C-Study\ExternExample\bin\Debug\ExternExample.exe
+C:\SRC\C-Study\ExternExample\bin\Debug\ExternExample.pdb
+C:\SRC\C-Study\ExternExample\obj\Debug\ExternExample.csprojAssemblyReference.cache
+C:\SRC\C-Study\ExternExample\obj\Debug\ExternExample.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\ExternExample\obj\Debug\ExternExample.exe
+C:\SRC\C-Study\ExternExample\obj\Debug\ExternExample.pdb
