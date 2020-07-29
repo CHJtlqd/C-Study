@@ -1,0 +1,6 @@
+C:\SRC\C-Study\ClientExample\bin\Debug\ClientExample.exe.config
+C:\SRC\C-Study\ClientExample\bin\Debug\ClientExample.exe
+C:\SRC\C-Study\ClientExample\bin\Debug\ClientExample.pdb
+C:\SRC\C-Study\ClientExample\obj\Debug\ClientExample.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\ClientExample\obj\Debug\ClientExample.exe
+C:\SRC\C-Study\ClientExample\obj\Debug\ClientExample.pdb

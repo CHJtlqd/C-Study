@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketExample2", "..\Socket
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketExample3", "..\SocketExample3\SocketExample3.csproj", "{75EA74AE-4C2B-4A2D-8E9A-23E4D996367B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientExample", "..\ClientExample\ClientExample.csproj", "{F1C204F2-BBB2-4FA1-A072-AE2640051E4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,10 @@ Global
 		{75EA74AE-4C2B-4A2D-8E9A-23E4D996367B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75EA74AE-4C2B-4A2D-8E9A-23E4D996367B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75EA74AE-4C2B-4A2D-8E9A-23E4D996367B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C204F2-BBB2-4FA1-A072-AE2640051E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C204F2-BBB2-4FA1-A072-AE2640051E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C204F2-BBB2-4FA1-A072-AE2640051E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C204F2-BBB2-4FA1-A072-AE2640051E4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
