@@ -1,0 +1,7 @@
+C:\SRC\C-Study\ThreadExample\bin\Debug\ThreadExample.exe.config
+C:\SRC\C-Study\ThreadExample\bin\Debug\ThreadExample.exe
+C:\SRC\C-Study\ThreadExample\bin\Debug\ThreadExample.pdb
+C:\SRC\C-Study\ThreadExample\obj\Debug\ThreadExample.csprojAssemblyReference.cache
+C:\SRC\C-Study\ThreadExample\obj\Debug\ThreadExample.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\ThreadExample\obj\Debug\ThreadExample.exe
+C:\SRC\C-Study\ThreadExample\obj\Debug\ThreadExample.pdb

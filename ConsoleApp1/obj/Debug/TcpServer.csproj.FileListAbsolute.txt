@@ -1,0 +1,7 @@
+C:\SRC\C-Study\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\SRC\C-Study\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\SRC\C-Study\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\SRC\C-Study\ConsoleApp1\obj\Debug\TcpServer.csprojAssemblyReference.cache
+C:\SRC\C-Study\ConsoleApp1\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\SRC\C-Study\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
