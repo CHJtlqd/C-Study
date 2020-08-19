@@ -1,0 +1,7 @@
+C:\SRC\C-Study\Generic4\bin\Debug\Generic4.exe.config
+C:\SRC\C-Study\Generic4\bin\Debug\Generic4.exe
+C:\SRC\C-Study\Generic4\bin\Debug\Generic4.pdb
+C:\SRC\C-Study\Generic4\obj\Debug\Generic4.csprojAssemblyReference.cache
+C:\SRC\C-Study\Generic4\obj\Debug\Generic4.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\Generic4\obj\Debug\Generic4.exe
+C:\SRC\C-Study\Generic4\obj\Debug\Generic4.pdb

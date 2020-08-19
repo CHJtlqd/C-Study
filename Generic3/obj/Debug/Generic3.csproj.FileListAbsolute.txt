@@ -1,0 +1,7 @@
+C:\SRC\C-Study\Generic3\bin\Debug\Generic3.exe.config
+C:\SRC\C-Study\Generic3\bin\Debug\Generic3.exe
+C:\SRC\C-Study\Generic3\bin\Debug\Generic3.pdb
+C:\SRC\C-Study\Generic3\obj\Debug\Generic3.csprojAssemblyReference.cache
+C:\SRC\C-Study\Generic3\obj\Debug\Generic3.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\Generic3\obj\Debug\Generic3.exe
+C:\SRC\C-Study\Generic3\obj\Debug\Generic3.pdb

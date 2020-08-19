@@ -1,0 +1,2 @@
+C:\SRC\C-Study\NexacroConnection\obj\Debug\NexacroConnection.csprojAssemblyReference.cache
+C:\SRC\C-Study\NexacroConnection\obj\Debug\NexacroConnection.csproj.CoreCompileInputs.cache
