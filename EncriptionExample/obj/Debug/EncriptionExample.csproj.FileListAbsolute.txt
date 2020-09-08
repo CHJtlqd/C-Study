@@ -1,0 +1,7 @@
+C:\SRC\C-Study\EncriptionExample\bin\Debug\EncriptionExample.exe.config
+C:\SRC\C-Study\EncriptionExample\bin\Debug\EncriptionExample.exe
+C:\SRC\C-Study\EncriptionExample\bin\Debug\EncriptionExample.pdb
+C:\SRC\C-Study\EncriptionExample\obj\Debug\EncriptionExample.csprojAssemblyReference.cache
+C:\SRC\C-Study\EncriptionExample\obj\Debug\EncriptionExample.csproj.CoreCompileInputs.cache
+C:\SRC\C-Study\EncriptionExample\obj\Debug\EncriptionExample.exe
+C:\SRC\C-Study\EncriptionExample\obj\Debug\EncriptionExample.pdb
